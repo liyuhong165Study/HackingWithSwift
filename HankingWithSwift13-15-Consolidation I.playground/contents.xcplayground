@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Day13-总结'/>
+        <page name='Day13-01.-处理缺失数据-Variables and constants'/>
+        <page name='Day13-02.-数据类型-Types of Data'/>
+        <page name='Day13-03.-运营商-Operators'/>
+        <page name='Day13-04.-字符串插值-String interpolation'/>
+        <page name='Day13-05.-数组-Arrays'/>
+        <page name='Day13-06.-字典-Dictionaries'/>
+        <page name='Day13-07.-条件语句-Conditional statements'/>
+        <page name='Day13-08.-循环-Loops'/>
+        <page name='Day13-09.-开关案例-Switch case'/>
+        <page name='Day14-总结'/>
+        <page name='Day14-01.-函数-Functions'/>
+    </pages>
+</playground>
